@@ -2,8 +2,6 @@
 //  BankAccount.swift
 //  BankApp
 //
-//  Created by Mohammad Azam on 11/10/21.
-//
 
 import Foundation
 
